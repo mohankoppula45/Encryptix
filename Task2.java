@@ -1,3 +1,5 @@
+/*STUDENT GRADE CALCULATOR*/
+
 import java.util.Scanner;
 
 class StuGradCal{
