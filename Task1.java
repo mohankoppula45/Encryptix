@@ -15,7 +15,7 @@ class GuessingGame{
             System.out.println("Round " + round + ":");
             int numberToGuess = random.nextInt(100) + 1;  // Random number between 1 and 100
             int guess = 0;
-            int attempts = 10;  // Limiting to 5 attempts
+            int attempts = 10;  // Limiting to 10 attempts
             int attemptsUsed = 0;
 
             System.out.println("You have 10 attempts to guess the number between 1 and 100.");
